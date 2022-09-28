@@ -1,6 +1,6 @@
 /*******************************
  作者：wwdream@126.com
- github:https://github.com/ToNatureW/Fast_Loam_Notes
+ github:https://github.com/ZhaZhaJ/Fast_Loam_Notes
  --------------------------------
  功能简介：
     1、初始化雷达的参数；
